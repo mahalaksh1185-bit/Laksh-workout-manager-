@@ -1,0 +1,6 @@
+{
+  "name": "Gym Workout Manager",
+  "description": "Complete gym management and workout tracking app with weekly plans, exercise logs, weight tracking, smart alarms, and audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
